@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prashant Singh</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singh08prashant" alt="singh08prashant" /> </p>
 <p align="center">
-![singh08prashant](https://github-readme-stats.vercel.app/api?username=singh08prashant&hide=["issues"]&show_icons=true&title_color=00ffff&text_color=33ff33&bg_color=333333&icon_color=ffff4d) <-
+<img src="https://github-readme-stats.vercel.app/api?username=singh08prashant&hide=["issues"]&show_icons=true&title_color=00ffff&text_color=33ff33&bg_color=333333&icon_color=ffff4d")
 <p>
 <hr>
 
