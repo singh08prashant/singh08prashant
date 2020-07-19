@@ -3,7 +3,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=singh08prashant&show_icons=true&title_color=00ffff&text_color=33ff33&bg_color=333333&icon_color=ffff4d")
 </p>
 
-<img align='right' src='https://media.giphy.com/media/dsKnRuALlWsZG/giphy.gif' height = "200">
+<img align='right' src='https://media.giphy.com/media/5B6PQ4lDOlbB6/giphy.gif' height = "200">
 
 ---
 
