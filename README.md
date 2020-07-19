@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Prashant Singh</h1>
+<h1 align="center">Hi <img src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif" width="60px" height="70px">, I'm Prashant Singh</h1>
 <p align ="left">
 <img src="https://github-readme-stats.vercel.app/api?username=singh08prashant&show_icons=true&title_color=00ffff&text_color=33ff33&bg_color=333333&icon_color=ffff4d")
 </p>
