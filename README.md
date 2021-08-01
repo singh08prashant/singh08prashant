@@ -2,7 +2,7 @@
 <img src = "https://octodex.github.com/images/spidertocat.png" width ="80px" height="100px"> </h1>
 <p align ="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=singh08prashant" width = "60%"> 
+<img src="https://github-profile-trophy.vercel.app/?username=singh08prashant&row=1"> 
 </p>
 
 
