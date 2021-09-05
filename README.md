@@ -1,6 +1,16 @@
 <h1 align="center">Hi, I'm Prashant Singh
 <img src = "https://octodex.github.com/images/spidertocat.png" width ="80px" height="100px"> </h1>
 
+- 👨‍💻 I’m pursuing Bachelors in Computer Science & Engineering from Sharda University
+
+- 🌱 I’m exploring **JavaScript, Reactjs**
+
+- 📝 I write articles on [Medium](https://medium.com/@singh08prashant)
+
+- 💬 Ask me about **C++, Microsoft Azure, Google Cloud and Problem Solving**
+
+- 📫 How to reach me **singh08prashant@gmail.com**
+
 <div align ="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=singh08prashant&row=1&no-frame=true" > 
@@ -16,8 +26,11 @@
 
 </div>
 
+---
 
 <div align="center">
+<h3>Support</h3>
+<p><a href="https://www.buymeacoffee.com/s08prashant"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="https://www.buymeacoffee.com/s08prashant" /></a></p>
 <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsingh08prashant" />
 <img src="https://komarev.com/ghpvc/?username=singh08prashant" alt="singh08prashant" />
 
