@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Prashant Singh
 <img src = "https://octodex.github.com/images/spidertocat.png" width ="80px" height="100px"> </h1>
 
-- 👨‍💻 I’m pursuing Bachelors in Computer Science & Engineering from Sharda University
+- 👨‍💻 I’m working as a Software Engineer at Tata Consultancy Services
 
 - 🌱 I’m exploring **JavaScript, Reactjs**
 
